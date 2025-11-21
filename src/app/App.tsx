@@ -1,6 +1,6 @@
-import Header from "../features/Services/Components/Header";
-import Footer from "../features/Services/Components/Footer";
-import Home from "../features/Services/pages/Home";
+import Header from "../components/Header/Header";
+import Footer from "../components/Footer/Footer";
+import Home from "../pages/Home";
 
 function App() {
   return (
